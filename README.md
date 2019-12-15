@@ -19,3 +19,9 @@ To access, the application,
 
 p.s :  There is no port number in the above url because nginx listens to port 80 
 and redirects the browser to the application
+
+
+-----
+
+Based on 
+    [Youtube Tutorial - Serving static files with NGINX](https://www.youtube.com/watch?v=-7fxvD9kHi8)
